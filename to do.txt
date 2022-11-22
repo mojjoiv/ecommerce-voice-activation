@@ -1,0 +1,88 @@
+1. 5+ years of experience in our tech stack.
+
+2. Extensive hands-on experience in Javascript/Typescript, React, HTML/CSS, Webpack and Node. 
+
+3. Amazon Web Services (AWS) experience.
+
+Nice to have:
+
+1. Knowledge of Web3 and Solana development tools and libraries, such as Web3.js. 
+
+2. Experience with The Graph Protocol and wide range of experience across many industries (hopefully lots of user-facing products). 
+
+
+
+
+
+
+
+
+Key tasks in our project: technically managing the frontend team and rebuilding the best user interface for the existing our CDP using latest web tooling includes Angular.js & React.js, Redux.
+
+What you’ll be working on
+
+1. Work within a small but focused team, collaborating with your colleagues (product manager, designer, backend/frontend engineers) to define, develop and ship impactful products.
+
+2. Make a visually appealing web interface through transformation of large and complex datasets exposed via API Contribute to the design and development of reusable UI components in React and Redux or Angular Boost UI performance and note scalability limits of technologies used.
+
+3. Mentor Junior team members and review their code. Manage business expectations, resolve conflicts, and keep teams aligned Develop, maintain and drive execution on 3-6 months, 12-18 months and 3-5 year roadmaps along with key operational metrics.
+
+Requirements: the ideal candidate will have deep technical expertise and strong experience building customer data platforms and marketing technology solutions, as the client is currently working on rebuilding their existing CDP.
+
+Must have:
+
+1. 6+years of experience in our tech stack.
+
+2. Extensive hands-on experience in Angular, React, RxJS, Redux, Typescript
+
+3. Leadership experience is required
+
+Nice to have:
+
+Knowledge and experience with CDP | Customer Data Platform
+
+
+
+
+
+
+
+● Experience with Angular and Javascript.
+● Experience in software development, scripting and project management. 
+● Experience using system monitoring tools (e.g. New Relic) and automated testing frameworks.
+● Familiarity with various operating systems (Linux, Mac OS, Windows). 
+● Analytical mind with a problem-solving aptitude. 
+● Ability to work independently. 
+● Excellent organizational and leadership skills. 
+● Minimum of a BS in computer science or related skills.
+
+
+
+
+NODEJS AND REACTJS
+
+
+
+
+
+
+Key tasks in our project: will focus on writing code for backend and middleware suites that will enable consumption of third-party API data and storage within out database suite, ideally with the ability to interact with our PostgreSQL/ Neptune environment.
+
+What you’ll be working on
+1. Developer will be working closely with the founding team to help us bring to life a product that fans absolutely love. 
+2. You’ll have an opportunity to work with emerging blockchain technology, and personally be responsible for developing backend infrastructure and code that onboard the next hundreds of thousands of users to web3. A deep appreciation for user experience is important, and experience building consumer-facing products is critical. 
+3. This will also involve creating internal API’s through Loopback and AWS API Gateway, as well as externally facing API/ SDK for our creator’s to interact with. 
+
+Requirements: the ideal candidate will have technical expertise as a backend JavaScript developer and strong experience building web3 apps.
+
+Must have:
+
+1. 4+ years of experience in our tech stack.
+
+2. Extensive hands-on experience in Node/Typescript, React, PostgreSQL and RestAPI’s, Server-less Architecture Lambda, SQS, API Gateway, EC2.
+
+3. Amazon Web Services (AWS) experience.
+
+Nice to have:
+
+Knowledge and experience with Graph Database (Gremlin, Neptune) 
